@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.cool {
+    background-color: rgba(240, 117, 129, 0.78);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cool.er {
+    font-size: 24px;
+}
+
+#me {
+    color: rgb(26, 26, 255);
+    font-size: 36px;
+}
+
+#another {
+    background-color: rgb(164, 255, 164);
+    font-size: 24px;
+    font-weight: bold;
+}
